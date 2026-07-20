@@ -1,6 +1,6 @@
 import requests
 
-class RequestUtil:
+class RequestUtil01:
     def send_post(self,url,data):
         response = requests.post(
             url=url,

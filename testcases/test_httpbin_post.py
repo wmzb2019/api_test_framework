@@ -1,4 +1,4 @@
-from common.request_util import RequestUtil
+from common.request_util01 import RequestUtil
 
 
 def test_httpbin_post():
